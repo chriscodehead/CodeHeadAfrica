@@ -1,5 +1,5 @@
 
-<h3>Progress Test Checker</h3>
+<h3>Progress Test Checker - New way to go</h3>
 <div class="progress-bar-container">
   <div class="progress-bar"></div>
 </div>
