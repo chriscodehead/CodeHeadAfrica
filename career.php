@@ -1,6 +1,6 @@
 <?php
 require_once('lib.php');
-$title = 'Career ' . $siteName;
+$title = 'Career Opportunity | ' . $siteName;
 $description = '';
 $keyword = '';
 require_once('head.php'); ?>
